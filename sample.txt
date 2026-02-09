@@ -1,0 +1,10 @@
+This is a sample text file.
+
+I created this file to practice writing.
+This file contains simple sentences.
+
+I am learning step by step.
+Practice helps me improve every day.
+
+This is just a normal text file.
+Thank you.
